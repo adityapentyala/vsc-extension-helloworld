@@ -2,6 +2,8 @@
 
 This is the README for your extension "helloworld". After writing up a brief description, we recommend including the following sections.
 
+Refer to https://code.visualstudio.com/api/get-started/your-first-extension for setup instructions.
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
